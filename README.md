@@ -1,0 +1,4 @@
+Cocos2dAddSprite
+================
+
+AddSprite
