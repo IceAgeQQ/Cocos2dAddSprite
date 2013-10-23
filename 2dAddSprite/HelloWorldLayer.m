@@ -40,8 +40,7 @@
 	// always call "super" init
 	// Apple recommends to re-assign "self" with the "super's" return value
 	if( (self=[super init]) ) {
-        NSLog(@"wowa");
-        NSLog(@"wow");
+    
 		self.isTouchEnabled = YES;
         NSMutableArray *array = [[NSMutableArray alloc]init];
         self.spriteArray = array;
