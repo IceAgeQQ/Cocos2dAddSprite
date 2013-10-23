@@ -4,7 +4,7 @@
 //
 //  Created by Chao Xu on 13-8-4.
 //  Copyright Chao Xu 2013年. All rights reserved.
-//
+///////////////////////////////////////////
 
 
 // When you import this file, you import all the cocos2d classes
